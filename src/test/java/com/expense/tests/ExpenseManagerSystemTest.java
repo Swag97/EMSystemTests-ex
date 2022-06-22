@@ -52,9 +52,9 @@ public class ExpenseManagerSystemTest {
 		
 		driver.quit();
 		
-       // if(result.getStatus() == ITestResult.FAILURE) {
+    //    if(result.getStatus() == ITestResult.FAILURE) {
 			//You need to enter your JIRA Username and Password in below line
-        //	BasicCredentials cred = new BasicCredentials("", "");
+      //  	BasicCredentials cred = new BasicCredentials("", "");
 			
 			//You need to enter your JIRA machine IP address with port 8080 in below line
         //	JiraClient jira = new JiraClient("", cred);
